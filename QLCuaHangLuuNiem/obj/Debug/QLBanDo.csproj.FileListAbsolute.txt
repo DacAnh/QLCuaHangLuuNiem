@@ -1,0 +1,255 @@
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\bin\Debug\QLBanDo.exe.config
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\bin\Debug\QLBanDo.exe
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\bin\Debug\QLBanDo.pdb
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\bin\Debug\Azure.Core.dll
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\bin\Debug\Azure.Identity.dll
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\bin\Debug\System.Buffers.dll
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\bin\Debug\System.ClientModel.dll
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\bin\Debug\System.Memory.Data.dll
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\bin\Debug\System.Memory.dll
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\bin\Debug\System.Security.AccessControl.dll
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\bin\Debug\System.Security.Permissions.dll
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\bin\Debug\System.Text.Json.dll
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\bin\Debug\System.ValueTuple.dll
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\bin\Debug\Azure.Core.xml
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\bin\Debug\Azure.Identity.xml
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\bin\Debug\System.Buffers.xml
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\bin\Debug\System.ClientModel.xml
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\bin\Debug\System.Memory.xml
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\bin\Debug\System.Memory.Data.xml
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\bin\Debug\System.Security.AccessControl.xml
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\bin\Debug\System.Security.Permissions.xml
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\bin\Debug\System.Text.Json.xml
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\bin\Debug\System.ValueTuple.xml
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\obj\Debug\QLBanDo.csproj.AssemblyReference.cache
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\obj\Debug\QLBanDo.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\obj\Debug\QLBanDo.exe.config
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\obj\Debug\QLBanDo.Form1.resources
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\obj\Debug\QLBanDo.Properties.Resources.resources
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\obj\Debug\QLBanDo.csproj.GenerateResource.cache
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\obj\Debug\QLBanDo.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\obj\Debug\QLBanDo.csproj.Up2Date
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\obj\Debug\QLBanDo.exe
+C:\Users\DELL 5505\OneDrive\Documents\lập trình trực quan\QLBanDo\QLBanDo\obj\Debug\QLBanDo.pdb
+D:\text\mois\QLBanDo\QLBanDo\bin\Debug\QLBanDo.exe.config
+D:\text\mois\QLBanDo\QLBanDo\bin\Debug\QLBanDo.exe
+D:\text\mois\QLBanDo\QLBanDo\bin\Debug\QLBanDo.pdb
+D:\text\mois\QLBanDo\QLBanDo\bin\Debug\Azure.Core.dll
+D:\text\mois\QLBanDo\QLBanDo\bin\Debug\Azure.Identity.dll
+D:\text\mois\QLBanDo\QLBanDo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\text\mois\QLBanDo\QLBanDo\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\text\mois\QLBanDo\QLBanDo\bin\Debug\Microsoft.Identity.Client.dll
+D:\text\mois\QLBanDo\QLBanDo\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\text\mois\QLBanDo\QLBanDo\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\text\mois\QLBanDo\QLBanDo\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\text\mois\QLBanDo\QLBanDo\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\text\mois\QLBanDo\QLBanDo\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\text\mois\QLBanDo\QLBanDo\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\text\mois\QLBanDo\QLBanDo\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\text\mois\QLBanDo\QLBanDo\bin\Debug\System.Buffers.dll
+D:\text\mois\QLBanDo\QLBanDo\bin\Debug\System.ClientModel.dll
+D:\text\mois\QLBanDo\QLBanDo\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\text\mois\QLBanDo\QLBanDo\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\text\mois\QLBanDo\QLBanDo\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\text\mois\QLBanDo\QLBanDo\bin\Debug\System.IO.FileSystem.AccessControl.dll
+D:\text\mois\QLBanDo\QLBanDo\bin\Debug\System.Memory.Data.dll
+D:\text\mois\QLBanDo\QLBanDo\bin\Debug\System.Memory.dll
+D:\text\mois\QLBanDo\QLBanDo\bin\Debug\System.Numerics.Vectors.dll
+D:\text\mois\QLBanDo\QLBanDo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\text\mois\QLBanDo\QLBanDo\bin\Debug\System.Security.AccessControl.dll
+D:\text\mois\QLBanDo\QLBanDo\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\text\mois\QLBanDo\QLBanDo\bin\Debug\System.Security.Permissions.dll
+D:\text\mois\QLBanDo\QLBanDo\bin\Debug\System.Security.Principal.Windows.dll
+D:\text\mois\QLBanDo\QLBanDo\bin\Debug\System.Text.Encodings.Web.dll
+D:\text\mois\QLBanDo\QLBanDo\bin\Debug\System.Text.Json.dll
+D:\text\mois\QLBanDo\QLBanDo\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\text\mois\QLBanDo\QLBanDo\bin\Debug\System.ValueTuple.dll
+D:\text\mois\QLBanDo\QLBanDo\bin\Debug\Azure.Core.xml
+D:\text\mois\QLBanDo\QLBanDo\bin\Debug\Azure.Identity.xml
+D:\text\mois\QLBanDo\QLBanDo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\text\mois\QLBanDo\QLBanDo\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\text\mois\QLBanDo\QLBanDo\bin\Debug\Microsoft.Identity.Client.xml
+D:\text\mois\QLBanDo\QLBanDo\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\text\mois\QLBanDo\QLBanDo\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\text\mois\QLBanDo\QLBanDo\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\text\mois\QLBanDo\QLBanDo\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\text\mois\QLBanDo\QLBanDo\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\text\mois\QLBanDo\QLBanDo\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\text\mois\QLBanDo\QLBanDo\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\text\mois\QLBanDo\QLBanDo\bin\Debug\System.Buffers.xml
+D:\text\mois\QLBanDo\QLBanDo\bin\Debug\System.ClientModel.xml
+D:\text\mois\QLBanDo\QLBanDo\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\text\mois\QLBanDo\QLBanDo\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\text\mois\QLBanDo\QLBanDo\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\text\mois\QLBanDo\QLBanDo\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\text\mois\QLBanDo\QLBanDo\bin\Debug\System.Memory.xml
+D:\text\mois\QLBanDo\QLBanDo\bin\Debug\System.Memory.Data.xml
+D:\text\mois\QLBanDo\QLBanDo\bin\Debug\System.Numerics.Vectors.xml
+D:\text\mois\QLBanDo\QLBanDo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\text\mois\QLBanDo\QLBanDo\bin\Debug\System.Security.AccessControl.xml
+D:\text\mois\QLBanDo\QLBanDo\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\text\mois\QLBanDo\QLBanDo\bin\Debug\System.Security.Permissions.xml
+D:\text\mois\QLBanDo\QLBanDo\bin\Debug\System.Security.Principal.Windows.xml
+D:\text\mois\QLBanDo\QLBanDo\bin\Debug\System.Text.Encodings.Web.xml
+D:\text\mois\QLBanDo\QLBanDo\bin\Debug\System.Text.Json.xml
+D:\text\mois\QLBanDo\QLBanDo\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\text\mois\QLBanDo\QLBanDo\bin\Debug\System.ValueTuple.xml
+D:\text\mois\QLBanDo\QLBanDo\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\text\mois\QLBanDo\QLBanDo\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\text\mois\QLBanDo\QLBanDo\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\text\mois\QLBanDo\QLBanDo\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\text\mois\QLBanDo\QLBanDo\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\text\mois\QLBanDo\QLBanDo\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\text\mois\QLBanDo\QLBanDo\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\text\mois\QLBanDo\QLBanDo\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\text\mois\QLBanDo\QLBanDo\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\text\mois\QLBanDo\QLBanDo\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\text\mois\QLBanDo\QLBanDo\obj\Debug\QLBanDo.csproj.AssemblyReference.cache
+D:\text\mois\QLBanDo\QLBanDo\obj\Debug\QLBanDo.csproj.SuggestedBindingRedirects.cache
+D:\text\mois\QLBanDo\QLBanDo\obj\Debug\QLBanDo.exe.config
+D:\text\mois\QLBanDo\QLBanDo\obj\Debug\QLBanDo.Dangky.resources
+D:\text\mois\QLBanDo\QLBanDo\obj\Debug\QLBanDo.DangNhap.resources
+D:\text\mois\QLBanDo\QLBanDo\obj\Debug\QLBanDo.Home.resources
+D:\text\mois\QLBanDo\QLBanDo\obj\Debug\QLBanDo.Properties.Resources.resources
+D:\text\mois\QLBanDo\QLBanDo\obj\Debug\QLBanDo.QuenMatKhau.resources
+D:\text\mois\QLBanDo\QLBanDo\obj\Debug\QLBanDo.csproj.GenerateResource.cache
+D:\text\mois\QLBanDo\QLBanDo\obj\Debug\QLBanDo.csproj.CoreCompileInputs.cache
+D:\text\mois\QLBanDo\QLBanDo\obj\Debug\QLBanDo.csproj.Up2Date
+D:\text\mois\QLBanDo\QLBanDo\obj\Debug\QLBanDo.exe
+D:\text\mois\QLBanDo\QLBanDo\obj\Debug\QLBanDo.pdb
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\bin\Debug\QLBanDo.exe.config
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\bin\Debug\QLBanDo.exe
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\bin\Debug\QLBanDo.pdb
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\bin\Debug\Azure.Core.dll
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\bin\Debug\Azure.Identity.dll
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\bin\Debug\Microsoft.Identity.Client.dll
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\bin\Debug\System.Buffers.dll
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\bin\Debug\System.ClientModel.dll
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\bin\Debug\System.IO.FileSystem.AccessControl.dll
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\bin\Debug\System.Memory.Data.dll
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\bin\Debug\System.Memory.dll
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\bin\Debug\System.Numerics.Vectors.dll
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\bin\Debug\System.Security.AccessControl.dll
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\bin\Debug\System.Security.Permissions.dll
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\bin\Debug\System.Security.Principal.Windows.dll
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\bin\Debug\System.Text.Encodings.Web.dll
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\bin\Debug\System.Text.Json.dll
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\bin\Debug\System.ValueTuple.dll
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\bin\Debug\Azure.Core.xml
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\bin\Debug\Azure.Identity.xml
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\bin\Debug\Microsoft.Identity.Client.xml
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\bin\Debug\System.Buffers.xml
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\bin\Debug\System.ClientModel.xml
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\bin\Debug\System.Memory.xml
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\bin\Debug\System.Memory.Data.xml
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\bin\Debug\System.Numerics.Vectors.xml
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\bin\Debug\System.Security.AccessControl.xml
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\bin\Debug\System.Security.Permissions.xml
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\bin\Debug\System.Security.Principal.Windows.xml
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\bin\Debug\System.Text.Encodings.Web.xml
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\bin\Debug\System.Text.Json.xml
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\bin\Debug\System.ValueTuple.xml
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\obj\Debug\QLBanDo.csproj.AssemblyReference.cache
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\obj\Debug\QLBanDo.csproj.SuggestedBindingRedirects.cache
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\obj\Debug\QLBanDo.exe.config
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\obj\Debug\QLBanDo.Dangky.resources
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\obj\Debug\QLBanDo.DangNhap.resources
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\obj\Debug\QLBanDo.Home.resources
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\obj\Debug\QLBanDo.Properties.Resources.resources
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\obj\Debug\QLBanDo.QuenMatKhau.resources
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\obj\Debug\QLBanDo.csproj.GenerateResource.cache
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\obj\Debug\QLBanDo.csproj.CoreCompileInputs.cache
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\obj\Debug\QLBanDo.csproj.Up2Date
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\obj\Debug\QLBanDo.exe
+D:\.Virtual Studio\Code Storage\mois\QLBanDo\QLBanDo\obj\Debug\QLBanDo.pdb
