@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\.Virtual Studio\\Code Storage\\mois\\QLCuaHangLuuNiem\\",
+  "WorkspaceRootPath": "D:\\.Virtual Studio\\Code Storage\\QLCuaHangLuuNiem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{236A66A3-AB39-4EF8-A330-4685DC2A1CD0}|QLCuaHangLuuNiem\\QLCuaHangLuuNiem.csproj|d:\\.virtual studio\\code storage\\mois\\qlcuahangluuniem\\qlcuahangluuniem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{236A66A3-AB39-4EF8-A330-4685DC2A1CD0}|QLCuaHangLuuNiem\\QLCuaHangLuuNiem.csproj|solutionrelative:qlcuahangluuniem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{236A66A3-AB39-4EF8-A330-4685DC2A1CD0}|QLCuaHangLuuNiem\\QLCuaHangLuuNiem.csproj|d:\\.virtual studio\\code storage\\mois\\qlcuahangluuniem\\qlcuahangluuniem\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{236A66A3-AB39-4EF8-A330-4685DC2A1CD0}|QLCuaHangLuuNiem\\QLCuaHangLuuNiem.csproj|d:\\.virtual studio\\code storage\\qlcuahangluuniem\\qlcuahangluuniem\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{236A66A3-AB39-4EF8-A330-4685DC2A1CD0}|QLCuaHangLuuNiem\\QLCuaHangLuuNiem.csproj|solutionrelative:qlcuahangluuniem\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{236A66A3-AB39-4EF8-A330-4685DC2A1CD0}|QLCuaHangLuuNiem\\QLCuaHangLuuNiem.csproj|d:\\.virtual studio\\code storage\\mois\\qlcuahangluuniem\\qlcuahangluuniem\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{236A66A3-AB39-4EF8-A330-4685DC2A1CD0}|QLCuaHangLuuNiem\\QLCuaHangLuuNiem.csproj|d:\\.virtual studio\\code storage\\qlcuahangluuniem\\qlcuahangluuniem\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236A66A3-AB39-4EF8-A330-4685DC2A1CD0}|QLCuaHangLuuNiem\\QLCuaHangLuuNiem.csproj|solutionrelative:qlcuahangluuniem\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236A66A3-AB39-4EF8-A330-4685DC2A1CD0}|QLCuaHangLuuNiem\\QLCuaHangLuuNiem.csproj|d:\\.virtual studio\\code storage\\qlcuahangluuniem\\qlcuahangluuniem\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{236A66A3-AB39-4EF8-A330-4685DC2A1CD0}|QLCuaHangLuuNiem\\QLCuaHangLuuNiem.csproj|solutionrelative:qlcuahangluuniem\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{236A66A3-AB39-4EF8-A330-4685DC2A1CD0}|QLCuaHangLuuNiem\\QLCuaHangLuuNiem.csproj|d:\\.virtual studio\\code storage\\mois\\qlcuahangluuniem\\qlcuahangluuniem\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{236A66A3-AB39-4EF8-A330-4685DC2A1CD0}|QLCuaHangLuuNiem\\QLCuaHangLuuNiem.csproj|solutionrelative:qlcuahangluuniem\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{236A66A3-AB39-4EF8-A330-4685DC2A1CD0}|QLCuaHangLuuNiem\\QLCuaHangLuuNiem.csproj|d:\\.virtual studio\\code storage\\qlcuahangluuniem\\qlcuahangluuniem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236A66A3-AB39-4EF8-A330-4685DC2A1CD0}|QLCuaHangLuuNiem\\QLCuaHangLuuNiem.csproj|solutionrelative:qlcuahangluuniem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,53 +78,53 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DangNhap.cs",
-              "DocumentMoniker": "D:\\.Virtual Studio\\Code Storage\\mois\\QLCuaHangLuuNiem\\QLCuaHangLuuNiem\\DangNhap.cs",
-              "RelativeDocumentMoniker": "QLCuaHangLuuNiem\\DangNhap.cs",
-              "ToolTip": "D:\\.Virtual Studio\\Code Storage\\mois\\QLCuaHangLuuNiem\\QLCuaHangLuuNiem\\DangNhap.cs",
-              "RelativeToolTip": "QLCuaHangLuuNiem\\DangNhap.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T10:24:33.267Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\.Virtual Studio\\Code Storage\\mois\\QLCuaHangLuuNiem\\QLCuaHangLuuNiem\\Program.cs",
-              "RelativeDocumentMoniker": "QLCuaHangLuuNiem\\Program.cs",
-              "ToolTip": "D:\\.Virtual Studio\\Code Storage\\mois\\QLCuaHangLuuNiem\\QLCuaHangLuuNiem\\Program.cs",
-              "RelativeToolTip": "QLCuaHangLuuNiem\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAsAAAAAAAAAA==",
+              "Title": "DangNhap.cs",
+              "DocumentMoniker": "D:\\.Virtual Studio\\Code Storage\\QLCuaHangLuuNiem\\QLCuaHangLuuNiem\\DangNhap.cs",
+              "RelativeDocumentMoniker": "QLCuaHangLuuNiem\\DangNhap.cs",
+              "ToolTip": "D:\\.Virtual Studio\\Code Storage\\QLCuaHangLuuNiem\\QLCuaHangLuuNiem\\DangNhap.cs",
+              "RelativeToolTip": "QLCuaHangLuuNiem\\DangNhap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T10:23:05.236Z",
+              "WhenOpened": "2024-11-18T12:58:13.493Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "DangNhap.cs [Design]",
-              "DocumentMoniker": "D:\\.Virtual Studio\\Code Storage\\mois\\QLCuaHangLuuNiem\\QLCuaHangLuuNiem\\DangNhap.cs",
+              "DocumentMoniker": "D:\\.Virtual Studio\\Code Storage\\QLCuaHangLuuNiem\\QLCuaHangLuuNiem\\DangNhap.cs",
               "RelativeDocumentMoniker": "QLCuaHangLuuNiem\\DangNhap.cs",
-              "ToolTip": "D:\\.Virtual Studio\\Code Storage\\mois\\QLCuaHangLuuNiem\\QLCuaHangLuuNiem\\DangNhap.cs [Design]",
+              "ToolTip": "D:\\.Virtual Studio\\Code Storage\\QLCuaHangLuuNiem\\QLCuaHangLuuNiem\\DangNhap.cs [Design]",
               "RelativeToolTip": "QLCuaHangLuuNiem\\DangNhap.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T10:22:12.178Z",
+              "WhenOpened": "2024-11-18T12:58:00.95Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TaiKhoan.cs",
-              "DocumentMoniker": "D:\\.Virtual Studio\\Code Storage\\mois\\QLCuaHangLuuNiem\\QLCuaHangLuuNiem\\TaiKhoan.cs",
-              "RelativeDocumentMoniker": "QLCuaHangLuuNiem\\TaiKhoan.cs",
-              "ToolTip": "D:\\.Virtual Studio\\Code Storage\\mois\\QLCuaHangLuuNiem\\QLCuaHangLuuNiem\\TaiKhoan.cs",
-              "RelativeToolTip": "QLCuaHangLuuNiem\\TaiKhoan.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "D:\\.Virtual Studio\\Code Storage\\QLCuaHangLuuNiem\\QLCuaHangLuuNiem\\Connection.cs",
+              "RelativeDocumentMoniker": "QLCuaHangLuuNiem\\Connection.cs",
+              "ToolTip": "D:\\.Virtual Studio\\Code Storage\\QLCuaHangLuuNiem\\QLCuaHangLuuNiem\\Connection.cs",
+              "RelativeToolTip": "QLCuaHangLuuNiem\\Connection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T10:21:31.429Z",
+              "WhenOpened": "2024-11-18T12:55:43.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\.Virtual Studio\\Code Storage\\QLCuaHangLuuNiem\\QLCuaHangLuuNiem\\Form1.cs",
+              "RelativeDocumentMoniker": "QLCuaHangLuuNiem\\Form1.cs",
+              "ToolTip": "D:\\.Virtual Studio\\Code Storage\\QLCuaHangLuuNiem\\QLCuaHangLuuNiem\\Form1.cs",
+              "RelativeToolTip": "QLCuaHangLuuNiem\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T12:55:26.74Z",
               "EditorCaption": ""
             }
           ]

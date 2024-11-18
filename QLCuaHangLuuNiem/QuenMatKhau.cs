@@ -10,7 +10,7 @@ using System.Windows.Forms;
 using Microsoft.Data.SqlClient;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
-namespace QLBanDo
+namespace QLCuaHangLuuNiem
 {
     public partial class QuenMatKhau : Form
     {

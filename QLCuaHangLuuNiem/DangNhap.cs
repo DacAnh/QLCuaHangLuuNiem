@@ -11,7 +11,7 @@ using System.Data.SqlClient;
 using QLBanDo;
 
 
-namespace QLBanDo
+namespace QLCuaHangLuuNiem
 {
     public partial class DangNhap : Form
     {

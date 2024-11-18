@@ -1,4 +1,4 @@
-﻿namespace QLBanDo
+﻿namespace QLCuaHangLuuNiem
 {
     partial class Dangky
     {

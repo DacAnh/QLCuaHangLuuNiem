@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using Microsoft.Data.SqlClient;
 
-namespace QLBanDo
+namespace QLCuaHangLuuNiem
 {
     public partial class Home : Form
     {
